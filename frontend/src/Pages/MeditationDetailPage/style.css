@@ -1,0 +1,52 @@
+
+
+.wrappingMeditation{
+    background-color: #23B5C9;
+}
+
+.mappingDiv{
+    
+    margin:auto;
+    text-align: center;
+   
+}
+
+
+.meditationName{
+   margin: auto;
+   font-size: 75px;
+   text-align: center;
+   background-color: #23B5C9;
+}
+
+.meditationImage{
+   display: block;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+  
+
+}
+
+.meditationLongDescription{
+    text-align: center;
+    padding: 10px 400px;
+    text-align: left;
+    background-color: #23B5C9;
+}
+
+.meditationTimespend{
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 10px;
+}
+
+.meditationLink{
+    text-align: center;
+    font-size: 200%;
+    padding: 10px 400px;
+   background-color: #23B5C9;
+
+}

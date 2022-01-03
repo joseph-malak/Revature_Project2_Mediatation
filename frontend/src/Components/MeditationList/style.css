@@ -1,0 +1,39 @@
+.mappingDiv{
+    margin:auto;
+    text-align: center;
+    
+}
+
+
+.meditationName{
+   margin: auto;
+   font-size: 75px;
+   text-align: center;
+}
+
+.meditationImage{
+   display: block;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+
+
+}
+
+.meditationShortDescription{
+    text-align: center;
+    font-size: 200%;
+}
+
+.meditationTimespend{
+    text-align: center;
+    font-size: 200%;
+    margin-bottom: 10px;
+}
+
+.meditationLink{
+    text-align: center;
+    font-size: 200%;
+}
